@@ -1,6 +1,6 @@
 Time dependent Schrödinger equation for a double slit in a box
 ------------------------
-There are one .cpp file, Project5.cpp, and one .hpp file, Project5.hpp.
+There are one .cpp file, Project5.cpp, and one .hpp file, Project5.hpp. And one .py, Schrodinger_5.py
 
 Project5.hpp
 --------------
